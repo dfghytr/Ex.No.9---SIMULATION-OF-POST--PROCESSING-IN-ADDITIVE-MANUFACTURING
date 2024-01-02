@@ -33,7 +33,10 @@
 
 ## OUTPUT :
 
-<img width="309" alt="Screenshot 2023-12-16 153734" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/2db0a00d-0d72-4330-b71c-a629f4c7cada">
+![image](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/bee97834-fdb1-4863-ab16-a2622ba01307)
+![image](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/d85d369f-df81-4513-89f7-f350a9f0fd27)
+![image](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/2b965631-884e-494e-8902-49bebf91b50e)
+![image](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/266eb509-2c58-41f4-839b-e56fedff517c)
 
 ### Name:Abdul kalaam k m
 ### Register Number:23005114
